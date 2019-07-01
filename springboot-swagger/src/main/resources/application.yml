@@ -1,0 +1,10 @@
+# Swagger界面内容配置
+swagger:
+  title: Thank API接口文档
+  description: good good study, day day up!
+  version: 1.0.0
+  termsOfServiceUrl: http://wycfight.top
+  contact:
+    name: Shop
+    url: http://wycfight.top
+    email: wycfight@163.com
