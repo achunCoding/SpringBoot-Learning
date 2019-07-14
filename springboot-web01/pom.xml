@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.wycfight</groupId>
-    <artifactId>springbootweb01</artifactId>
+    <artifactId>springboot-web01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springbootweb01</name>
+    <name>springboot-web01</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

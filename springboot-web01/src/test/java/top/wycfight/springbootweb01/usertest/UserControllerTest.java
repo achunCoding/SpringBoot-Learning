@@ -37,6 +37,14 @@ public class UserControllerTest {
         System.out.println("result:" +contentAsString);
     }
 
+    @Test
+    public void saveUser() throws Exception {
+        mvc.perform(MockMvcRequestBuilders.post("/saveUser")
+        .param("name","")
+        .param("age","123")
+        .param("pass","abc"));
+    }
+
 
 
 }
