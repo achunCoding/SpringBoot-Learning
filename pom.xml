@@ -11,7 +11,7 @@
         <module>springboot-lombok</module>
         <module>springboot-swagger</module>
         <module>springboot-web01</module>
-
+        <module>springboot-jsp</module>
     </modules>
 
 </project>
